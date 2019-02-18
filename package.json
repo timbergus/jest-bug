@@ -6,7 +6,9 @@
   "scripts": {
     "test": "jest"
   },
-  "keywords": ["Jest"],
+  "keywords": [
+    "Jest"
+  ],
   "author": "Gustavo Muñoz <timbergus@gmail.com>",
   "license": "MIT",
   "dependencies": {

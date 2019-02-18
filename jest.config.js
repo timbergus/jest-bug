@@ -5,7 +5,7 @@ module.exports = {
     // in Jest output.
 
     collectCoverage: true,
-    coverageReporters: ['lcov'],
+    coverageReporters: ['lcov', 'text-summary'],
     collectCoverageFrom: ['src/*.js'],
     coverageThreshold: {
         global: {
